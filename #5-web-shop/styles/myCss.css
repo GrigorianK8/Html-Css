@@ -38,7 +38,6 @@ body {
 .card {
     background: linear-gradient(270deg, #ac7dd3 0%, #2d3fed 94%);
     color: #ead6d7;
-    /*box-shadow: 0px 0px 50px 0px #2ee7ff;*/
 }
 
 .slide-text {
@@ -66,6 +65,7 @@ footer {
     align-items: center;
 }
 
+/*VIDEO*/
 @keyframes myAnim {
     0%,
     100% {
